@@ -6,6 +6,9 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>my-app</name>
+ <modules>
+    <module>my-module</module>
+  </modules>
   <url>http://maven.apache.org</url>
 
   <properties>
